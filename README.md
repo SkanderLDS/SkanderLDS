@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 Hi, I'm **Skander Landolsi**, a passionate and detail-oriented **Software Engineering student** at **ESPRIT University**, Tunisia. With hands-on experience in full-stack development, game design, and network automation, I bring a versatile approach to solving real-world tech challenges.<br>
-<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br><br>🔧 Over the years, I’ve built:<br>- 🎮 A 2D SDL-based game in C (**Maze Runner**)<br>- 🛒 A PHP/HTML e-commerce platform for medical sports gear (**Jasminious**)<br>- 💪 A gym management system with a JavaFX desktop app and Symfony web app (**GymFit**)<br>- 🌐 Automated network labs using **Python**, **EVE-NG**, and **PowerShell**
+<br>👨🏼‍🎓 studying software engineering at ESPRIT Private University<br><br>🔧 Over the years, I’ve built:<br>- 🎮 A 2D SDL-based game in C (**Maze Runner**)<br>- 🛒 A PHP/HTML e-commerce platform for medical sports gear (**Jasminious**)<br>- 💪 A gym management system with a JavaFX desktop app and Symfony web app (**GymFit**)<br>- 🌐 Automated network labs using **Python**, **EVE-NG**, and **PowerShell**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
