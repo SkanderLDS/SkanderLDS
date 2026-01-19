@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Hi, I'm **Mohammed Skander Landolsi**, a passionate and detail-oriented **Software Engineering** **FROM** **Tunisia**. With hands-on experience in development, software architecture design, and network automation, I bring a versatile approach to solving real-world tech challenges.<br>
+Hi, I'm **Mohammed Skander Landolsi**, a passionate and detail-oriented **Software Engineer** **FROM** **Tunisia**. With hands-on experience in development, software architecture design, and network automation, I bring a versatile approach to solving real-world tech challenges.<br>
 <br>👨🏼‍🎓 studying software engineering at ESPRIT Private University<br><br>🔧 Over the years, I’ve built:<br>- 🎮 A 2D SDL-based game in C (**Maze Runner**)<br>- 🛒 A PHP/HTML e-commerce platform for medical sports gear (**Jasminious**)<br>- 💪 A gym management system with a JavaFX desktop app and Symfony web app (**GymFit**)<br>- 🌐 Automated network labs using **Python**, **EVE-NG**, and **PowerShell**
 
 <picture>
